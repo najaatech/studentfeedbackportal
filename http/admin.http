@@ -1,0 +1,2 @@
+GET https://localhost:7222/api/feedback/report
+x-user-role: Admin

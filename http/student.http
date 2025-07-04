@@ -1,0 +1,9 @@
+POST https://localhost:7222/api/Feedback
+x-student-id: 1
+Content-Type: application/json
+
+{
+  "courseId": 2,
+  "rating": 5,
+  "comment": "Great course!"
+}
