@@ -23,20 +23,29 @@ This is a Student Feedback Portal project that allows authenticated users (stude
 ## Assessment Requirements
 
 ### Student Features
+#### Todo
 - Login (Simulated) with hardcoded user and role (Student)
 - View a list of enrolled courses
 - Submit anonymous feedback:
   - Rating (1–5)
   - Text comment
+#### Icebox
 - Cannot submit more than one feedback per course
 
 ### Admin Features (Staff)
+#### Todo
 - Login (Simulated) with hardcoded user and role (Admin)
 - View feedback reports:
   - Course-wise aggregation
   - Instructor-wise aggregation
 - Search/filter by course or instructor
-- Optional: Export to Excel
+#### Icebox
+- Export to Excel
+
+### Notes
+- You have 4 hours to finish the assesment.  
+- Try to finish as much of the reqirements as you can. 
+- You may use AI-based coding assistants (e.g., GitHub Copilot, ChatGPT) to support your development. However, you are expected to write, understand, and explain all code you submit. Copy-pasted solutions that you cannot justify will result in disqualification.
 
 ## Getting Started
 
@@ -84,10 +93,6 @@ npm run dev
 ### URLs
 - **Frontend**: http://localhost:3000
 - **Backend API**: https://localhost:7222/swagger
-
-## Note Regarding AI
-
-You may use AI-based coding assistants (e.g., GitHub Copilot, ChatGPT) to support your development. However, you are expected to write, understand, and explain all code you submit. Copy-pasted solutions that you cannot justify will result in disqualification.
 
 ---
 
